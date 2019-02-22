@@ -1,0 +1,13 @@
+name: Dashboard_rias
+title: Dashboard_rias
+username:
+account: specificitycentralbank
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 521777
+bundleId: 1683346
+url: https://cirst.shinyapps.io/Dashboard_rias/
+when: 1541439428.08972
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|test
